@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference Kit on Cable Industry Implementation Guide for WFA Easy Connect</title>
+    <link>https://cablelabs.github.io/easyconnect/ref-kit/</link>
+    <description>Recent content in Reference Kit on Cable Industry Implementation Guide for WFA Easy Connect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2019 21:59:54 -0700</lastBuildDate>
+    
+	<atom:link href="https://cablelabs.github.io/easyconnect/ref-kit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DPP Enrollee</title>
+      <link>https://cablelabs.github.io/easyconnect/ref-kit/dpp_enrollee/</link>
+      <pubDate>Tue, 12 Nov 2019 22:09:12 -0700</pubDate>
+      
+      <guid>https://cablelabs.github.io/easyconnect/ref-kit/dpp_enrollee/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>DPP Configurator</title>
+      <link>https://cablelabs.github.io/easyconnect/ref-kit/dpp_configurator/</link>
+      <pubDate>Tue, 12 Nov 2019 22:12:02 -0700</pubDate>
+      
+      <guid>https://cablelabs.github.io/easyconnect/ref-kit/dpp_configurator/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    
+  </channel>
+</rss>

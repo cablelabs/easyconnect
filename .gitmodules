@@ -1,0 +1,4 @@
+[submodule "hugo/themes/techdoc-book"]
+	path = hugo/themes/techdoc-book
+	url = git@github.com:darshakthakore/hugo-theme-techdoc.git
+	branch = techdoc-book

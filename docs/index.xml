@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cable Industry Implementation Guide for WFA Easy Connect</title>
+    <link>https://cablelabs.github.io/easyconnect/</link>
+    <description>Recent content in Home on Cable Industry Implementation Guide for WFA Easy Connect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2019 19:54:51 -0700</lastBuildDate>
+    
+	<atom:link href="https://cablelabs.github.io/easyconnect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DPP Enrollee</title>
+      <link>https://cablelabs.github.io/easyconnect/ref-kit/dpp_enrollee/</link>
+      <pubDate>Tue, 12 Nov 2019 22:09:12 -0700</pubDate>
+      
+      <guid>https://cablelabs.github.io/easyconnect/ref-kit/dpp_enrollee/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>DPP Configurator</title>
+      <link>https://cablelabs.github.io/easyconnect/ref-kit/dpp_configurator/</link>
+      <pubDate>Tue, 12 Nov 2019 22:12:02 -0700</pubDate>
+      
+      <guid>https://cablelabs.github.io/easyconnect/ref-kit/dpp_configurator/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://cablelabs.github.io/easyconnect/getting-started/resources/</link>
+      <pubDate>Tue, 12 Nov 2019 21:40:43 -0700</pubDate>
+      
+      <guid>https://cablelabs.github.io/easyconnect/getting-started/resources/</guid>
+      <description>Contains resources for chipset/device makers, access-point/gw implementors and network operators 
+Chipset/device makers Click here if you are a device manufacturer and would like to incorporate DPP based secure onboarding in your device to ensure a seamless experience for your users.  Access point/Gateway implementors Click here if you are implenting access points and would like to add support for DPP based secure onboarding of devices.  Network operators Click here if you are network operator providing managed wifi services and would like to provide DPP based onboarding and device lifecycle management to your users.</description>
+    </item>
+    
+  </channel>
+</rss>
